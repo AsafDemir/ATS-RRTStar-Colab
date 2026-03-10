@@ -11,13 +11,13 @@
       ]
     },
     {
-      "cell_type": "code",
-      "source": [],
+      "cell_type": "markdown",
+      "source": [
+        "deneme"
+      ],
       "metadata": {
-        "id": "YSlGhbnmcV5q"
-      },
-      "execution_count": 6,
-      "outputs": []
+        "id": "DFJsGBO0dPND"
+      }
     }
   ],
   "metadata": {
